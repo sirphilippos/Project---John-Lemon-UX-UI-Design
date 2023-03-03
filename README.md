@@ -1,2 +1,3 @@
 # Project---John-Lemon-UX-UX-Design
-Projetos que criei enquanto estudava
+Primeiro "grande" projeto que criei enquanto estudava frontend
+projeto de estudo
